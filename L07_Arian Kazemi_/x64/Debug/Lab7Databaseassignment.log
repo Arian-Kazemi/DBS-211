@@ -1,0 +1,17 @@
+﻿  lab7.cpp
+C:\Users\Arian\Desktop\Seneca\dbs 211\Lab7Databaseassignment\lab7.cpp(53,27): error C2664: 'int oracle::occi::ResultSet::getInt(unsigned int)': cannot convert argument 1 from 'const char [16]' to 'unsigned int'
+C:\Users\Arian\Desktop\Seneca\dbs 211\Lab7Databaseassignment\lab7.cpp(53,36): message : There is no context in which this conversion is possible
+C:\app\oracle\product\12.2.0\client_1\oci\include\occiControl.h(1329,15): message : see declaration of 'oracle::occi::ResultSet::getInt'
+C:\Users\Arian\Desktop\Seneca\dbs 211\Lab7Databaseassignment\lab7.cpp(53,27): message : while trying to match the argument list '(const char [16])'
+C:\Users\Arian\Desktop\Seneca\dbs 211\Lab7Databaseassignment\lab7.cpp(54,26): error C2664: 'std::string oracle::occi::ResultSet::getString(unsigned int)': cannot convert argument 1 from 'const char [11]' to 'unsigned int'
+C:\Users\Arian\Desktop\Seneca\dbs 211\Lab7Databaseassignment\lab7.cpp(54,38): message : There is no context in which this conversion is possible
+C:\app\oracle\product\12.2.0\client_1\oci\include\occiControl.h(1339,38): message : see declaration of 'oracle::occi::ResultSet::getString'
+C:\Users\Arian\Desktop\Seneca\dbs 211\Lab7Databaseassignment\lab7.cpp(54,26): message : while trying to match the argument list '(const char [11])'
+C:\Users\Arian\Desktop\Seneca\dbs 211\Lab7Databaseassignment\lab7.cpp(55,26): error C2664: 'std::string oracle::occi::ResultSet::getString(unsigned int)': cannot convert argument 1 from 'const char [10]' to 'unsigned int'
+C:\Users\Arian\Desktop\Seneca\dbs 211\Lab7Databaseassignment\lab7.cpp(55,38): message : There is no context in which this conversion is possible
+C:\app\oracle\product\12.2.0\client_1\oci\include\occiControl.h(1339,38): message : see declaration of 'oracle::occi::ResultSet::getString'
+C:\Users\Arian\Desktop\Seneca\dbs 211\Lab7Databaseassignment\lab7.cpp(55,26): message : while trying to match the argument list '(const char [10])'
+C:\Users\Arian\Desktop\Seneca\dbs 211\Lab7Databaseassignment\lab7.cpp(56,26): error C2664: 'float oracle::occi::ResultSet::getFloat(unsigned int)': cannot convert argument 1 from 'const char [7]' to 'unsigned int'
+C:\Users\Arian\Desktop\Seneca\dbs 211\Lab7Databaseassignment\lab7.cpp(56,37): message : There is no context in which this conversion is possible
+C:\app\oracle\product\12.2.0\client_1\oci\include\occiControl.h(1333,17): message : see declaration of 'oracle::occi::ResultSet::getFloat'
+C:\Users\Arian\Desktop\Seneca\dbs 211\Lab7Databaseassignment\lab7.cpp(56,26): message : while trying to match the argument list '(const char [7])'

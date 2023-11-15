@@ -1,0 +1,11 @@
+dbs211_232ngg15:62215237
+
+drawio
+
+
+heart of dbms is sql commands
+
+attributes is columns
+
+don't use names as primary key!
+the table which contains foreign key is child table
